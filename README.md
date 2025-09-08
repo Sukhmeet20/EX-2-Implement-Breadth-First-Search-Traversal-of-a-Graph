@@ -77,11 +77,14 @@ Enter node: C
 Enter neighbors of C (comma separated): 
 
 Enter the starting node for BFS: A
+<img width="465" height="266" alt="image" src="https://github.com/user-attachments/assets/b58fdae0-a913-44ef-af85-6fd5ae088913" />
+
 
 ### Sample Output:
 
 BFS Traversal Order: ['A', 'B', 'C']
-<img width="457" height="211" alt="image" src="https://github.com/user-attachments/assets/734ce56e-c436-47fe-8263-4512c409fa21" />
+<img width="505" height="32" alt="image" src="https://github.com/user-attachments/assets/842ca72f-5bc2-44d3-87f4-f51440f7c9b2" />
+
 
 
 
